@@ -1,2 +1,2 @@
 # AOC2022
-Advent of code 2022 solutions.
+My own public repository for AOC solutions, most of them are made using Python!
